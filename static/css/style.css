@@ -85,7 +85,7 @@ a {
 	margin: auto;
 	width: auto;
 	height: 400px;
-    background-image: url("/static/images/bg.png");
+    background-image: url("../images/bg.png");
     background-size: cover;
     background-position: left bottom;
 }
