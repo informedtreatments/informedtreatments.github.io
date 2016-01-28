@@ -60,7 +60,7 @@ a {
 }
 
 #header #title a span {
-	color: orange;
+	color: #607d8b;
 }
 
 #title-img {
@@ -130,7 +130,7 @@ a {
 	padding-right: 20px;
 	background-color: white;
 	margin-left: 10px;
-	color: orange;
+	color: #607d8b;
 	font-weight: 600;
 	border: 3px solid transparent;
 	cursor: pointer;
@@ -139,7 +139,7 @@ a {
 }
 
 .button-link:hover {
-	background-color: orange;
+	background-color: #607d8b;
 	color: white;
 	border: 3px solid white;
 }
