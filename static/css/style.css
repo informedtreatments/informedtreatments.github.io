@@ -84,7 +84,7 @@ a {
 	z-index: 0;
 	margin: auto;
 	width: auto;
-	height: 600px;
+	height: 400px;
     background-image: url("/static/images/bg.png");
     background-size: cover;
     background-position: left bottom;
