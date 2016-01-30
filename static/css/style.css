@@ -157,6 +157,7 @@ a {
 	display: inline-block;
 	vertical-align: top;
 	width: 40vw;
+	max-width: 450px;
 	height: auto;
 	margin-left: 10px;
 	margin-right: 10px;
@@ -172,6 +173,8 @@ a {
 	border-radius: 35vw;
 	border: 1px solid #555555;
 	margin-bottom: 15px;
+	max-width: 400px;
+	max-height: 400px;
 
 }
 
